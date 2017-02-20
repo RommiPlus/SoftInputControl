@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="health_consultation_note">有一次，一个朝圣奥马哈的投资者向股神巴菲特提出的问题，这让在场的很多投资者都笑了。\n\n因为查理·芒格说过：“如果你确有能力，你就会非常清楚你能力圈的边界。若你问起，那就意味着你已在圈外。\n\n沃伦·巴菲特当时的回答是：我非常了解自己的能力圈边界，但对其他人实在没有什么建议，每个人都有必要意识到自己所具有的能力和知识。</string>
+    <string name="info" formatted="false">我是小查理%s号</string>
+</resources>
